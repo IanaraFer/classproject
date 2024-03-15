@@ -3,6 +3,7 @@
 
 **by: Ianara Fernandes**
 
-I study at [ATU](https://www.atu.ie/).
+I study at [ATU](https://allisonhorst.github.io/palmerpenguins/reference/figures/culmen_depth.png)
 
-[Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/culmen_depth.png)
+
+## End
