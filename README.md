@@ -5,6 +5,4 @@
 
 I study at ATU.
 
-[Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
-
-
+[Penguins] (https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png)
